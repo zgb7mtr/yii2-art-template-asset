@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zgb7mtr\\yii2-art-template-asset\\": "src"
+            "zgb7mtr\\artTemplate\\": "src"
         }
     },
     "extra": {
