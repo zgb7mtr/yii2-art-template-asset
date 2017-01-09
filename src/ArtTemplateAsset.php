@@ -9,7 +9,7 @@ use yii\web\AssetBundle;
 
 class ArtTemplateAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/aui/artTemplate/dist';
+    public $sourcePath = '@vendor/bower/art-template/dist';
     public $nativeVersion = false;
 
     public function init()
